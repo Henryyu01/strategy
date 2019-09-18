@@ -10,7 +10,7 @@ A repository of the models and race strategy developed for MSXIV (and beyond!)
 
 ## Getting Started
 - Make sure Python3 is installed on your system (open a command prompt and type python3, you should be brought to an interactive Python session)
-- Run pip3 install -r requirements (make sure you are in the code's directory)
+- Run pip3 install -r requirements.txt (make sure you are in the code's directory)
 - To make sure everything is up and working, run pytest from the command line. This should run a number of tests. If they all pass, you're all set to go!
 - After making changes, be sure to run pytest before committing to make sure your changes haven't broken any tests. If they have, go fix them!
 
